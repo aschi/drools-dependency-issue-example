@@ -10,5 +10,5 @@ repositories {
 }
 
 dependencies {
-    implementation 'org.drools:drools-core:8.39.0.Final'
+    implementation 'org.drools:drools-core:8.40.0.Final'
 }
